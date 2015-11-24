@@ -224,7 +224,7 @@ Agencies shall:
 
 1) Agencies shall incorporate in planning, budgeting, governance, and other policies appropriate steps to ensure that:
 
- a) Information is managed throughout its life cycle to promote openness and interoperability, and to safeguard systems and information; this includes all stages through which the information passes, including: creating or collection, processing, maintenance, storage, use, sharing, dissemination, and disposition; and
+ a) Information is managed throughout its life cycle to promote openness and interoperability, and to safeguard systems and information; this includes all stages through which the information passes, including: creating or collection, processing, maintenance, storage, use, sharing, dissemination, and disposition including the long-term preservation of Public Information;including the long-term preservation of Public Information; and
 
  b) Information is managed with a presumption in favor of proactively making information accessible, discoverable, and usable by the public to the extent permitted by statute and subject to existing terms and conditions, privacy, security, and other valid restrictions pertaining to access, use, and dissemination; and
 
@@ -237,6 +237,8 @@ Agencies shall:
   i. Creating or collecting all new information electronically by default, in machine-readable open formats, using relevant data standards, that upon creation includes standard extensible metadata identifying any restrictions to access, use, and dissemination in accordance with OMB guidance; and
  
   ii. For all instances where new Federal information creation or collection does not fall squarely within the public domain as U.S. government work, agencies shall include appropriate provisions in contracts to meet objectives of open data while recognizing that contractors may have proprietary interests in such information, and that protection of such information may be necessary to encourage qualified contractors to participate in and apply innovative concepts to government programs.
+  
+  iii. Create all 'Information dissemination products' of Public Information in formats that will be ready for long-term preservation using appropriate standards such as OAIS.
   
   b) Ensure that the public has timely and equitable online access to the agency's public information using a manner that is informed directly by public engagement and balanced against the costs of dissemination or accessibility improvements and demonstrate usefulness of the information.
 
@@ -288,6 +290,8 @@ Agencies shall:
   i) Complying with all applicable statutes governing the disclosure of information, including those related to the quality, privacy, confidentiality, security, and other valid access, use, and dissemination restrictions; and
   
   j) If not public domain, provide details on the license status to potential data users to help these potential users understand whether there are any restrictions on copying, publishing, distributing, transmitting, adapting, or otherwise using the information for commercial or non-commercial purposes.
+  
+  k. Developing an “Information Management Plan” that ensures the long-term preservation of Public Information specifying how the agency’s public information will be preserved for long-term, free public access and use including its deposit in a reputable, government or non-government, Trusted Digital Repository.
 
 ### Footnotes
 
